@@ -4,6 +4,7 @@
 ### Front-end Technologies / Modules: [Vue.JS v.3.0](https://v3.ru.vuejs.org), [Vue Property Decorator](https://www.npmjs.com/package/vue-property-decorator?activeTab=readme), [Vuex](https://vuex.vuejs.org), [Vuex Class](https://www.npmjs.com/package/vuex-class), HTML5, CSS3, FlexBox CSS, [Normalize.css](https://necolas.github.io/normalize.css/), JavaScript, TypeScript, [Element Plus](https://element-plus.org), [Vue I18n](https://kazupon.github.io/vue-i18n/). ###
 ### Storage Technology: [localStorage](https://developer.mozilla.org/ru/docs/Web/API/Window/localStorage). ###
 ### Testing: E2E - [CYpress](https://www.cypress.io), UNIT - [Jest](https://jestjs.io). ###
+![Screen_9](https://user-images.githubusercontent.com/30940416/181653741-01da6d87-14c5-4147-9e2d-fdc5aa7679ff.gif)
 
 ## Project setup
 ```
