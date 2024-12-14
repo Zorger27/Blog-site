@@ -1,11 +1,34 @@
 # Website template for a blogger #
-### You can view my CV (Landing Page) here: [Curriculum VITAE](https://zorger27.github.io)❗️ ###
-### You can view my Portfolio (SPA) here: [My Portfolio](https://Zorin.Expert)❗️ ###
-### Back-end Technologies / Modules: [Node.js](https://nodejs.org/en/), [Express.js](https://expressjs.com), [body-parser](https://www.npmjs.com/package/body-parser), [cors](https://www.npmjs.com/package/cors), [nodemon](https://www.npmjs.com/package/nodemon), [JSON Web Tokens](https://jwt.io), [Axios](https://axios-http.com/ru/). ###
-### Front-end Technologies / Modules: [Vue.JS v.3.0](https://v3.ru.vuejs.org), [Vue Property Decorator](https://www.npmjs.com/package/vue-property-decorator?activeTab=readme), [Vuex](https://vuex.vuejs.org), [Vuex Class](https://www.npmjs.com/package/vuex-class), HTML5, CSS3, FlexBox CSS, [Normalize.css](https://necolas.github.io/normalize.css/), JavaScript, TypeScript, [Element Plus](https://element-plus.org), [Vue I18n](https://kazupon.github.io/vue-i18n/). ###
-### Storage Technology: [localStorage](https://developer.mozilla.org/ru/docs/Web/API/Window/localStorage). ###
-### Testing: E2E - [CYpress](https://www.cypress.io), UNIT - [Jest](https://jestjs.io). ###
+### You can view my CV here: [Curriculum VITAE](https://zorger27.github.io)❗️ ###
+### You can view my Portfolio here: [My Portfolio](https://Zorin.Expert)❗️ ###
 ![Screen_9](https://user-images.githubusercontent.com/30940416/181653741-01da6d87-14c5-4147-9e2d-fdc5aa7679ff.gif)
+
+#### 🌐 A convenient and flexible web application that easily adapts to the style and needs of any blogger. ####
+#### 🖋️ Its simplicity of modification, stylish interface, and readiness for use after customization make this project a perfect tool. #### 
+#### Just upload it to a server, and your site is ready to go! ####
+
+### Technologies Used: ###
+
+<ins>Backend:</ins> <br>
+1️⃣ Node.js and Express.js — for fast and reliable request processing.<br>
+2️⃣ Axios — for working with APIs and asynchronous data exchange.<br>
+3️⃣ JSON Web Tokens — for authentication and user data protection.
+
+<ins>Frontend:</ins> <br>
+1️⃣ Vue.js and VueX — for creating reactive interfaces and state management.<br>
+2️⃣ HTML5, CSS3 and FlexBox CSS — for a modern and responsive design.<br>
+3️⃣ TypeScript — for strict typing and improved code stability.<br>
+4️⃣ Element Plus — for ready-to-use UI components.<br>
+5️⃣ Vue I18n — for multilingual support.
+
+<ins>Data Storage:</ins> <br>
+1️⃣ localStorage — for local user data storage.
+
+<ins>Testing:</ins> <br>
+1️⃣ Cypress (E2E) — for testing user scenarios.<br>
+2️⃣ Jest (Unit) — for verifying application logic.
+
+#### ✨ *Interested? This project is a great foundation for creating a unique blog. Customize it, test it, upload it to a server, and make your site a standout in the blogging world!* 🚀 ####
 
 ## Project setup
 ```
